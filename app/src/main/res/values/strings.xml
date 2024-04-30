@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="addNewName">Nome</string>
+    <string name="addNewNDescription">Descrição</string>
+    <string name="addNewQuantity">Quantidade</string>
+    <string name="addNewSave">Salvar</string>
+    <string name="addNew">Novo Item</string>
+    <string name="cleanAll">Remover Tudo</string>
+    <string name="addToCart">Adicionar ao Carrinho</string>
+</resources>

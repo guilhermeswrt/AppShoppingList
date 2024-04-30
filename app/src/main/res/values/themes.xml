@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TesteApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/cardview_dark_background</item>
+    </style>
+
+    <style name="Theme.TesteApp" parent="Base.Theme.TesteApp" />
+</resources>
